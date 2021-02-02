@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860629627857",
+    "project_id": "ecommerce-basic-835fc",
+    "storage_bucket": "ecommerce-basic-835fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860629627857:android:ece142c34d6c94296d66f0",
+        "android_client_info": {
+          "package_name": "com.jthamrun.ecommerce_basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860629627857-oq5l7krcfa1thsq3c3cfnhcrvji526rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYATCSwLrtIiT_z0dSyigOVY5QBoFtOH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860629627857-oq5l7krcfa1thsq3c3cfnhcrvji526rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
